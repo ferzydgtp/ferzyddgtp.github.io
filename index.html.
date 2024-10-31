@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Derivado de "Proyecto: página web de viajes"</title>
+        <style> h1{background-color:blue;}
+            h2{background-color:yellow;}
+            .animals{color:red;}
+            .plants{color:green;}
+            #country{color:pink;}
+        </style>
+        
+    </head>
+    <body>
+    
+        <h1>Travel to Australia</h1><br>
+        
+        <p>Known as the Commonwealth of Australia, this sovereign country is located in Oceania, it is the sixth country in the world in terms of size and is a place recognized worldwide for the beauty of its beaches, islands, mentality and nature. It is the place where the famous koalas live, as well as having an exotic flora and fauna.<br>
+        
+        <img src="https://cdn.kastatic.org/third_party/javascript-khansrc/live-editor/build/images/creatures/Winston.png">
+        
+        <h2> Fauna </h2>
+        <p id="country"> Australia has a unique fauna, and this is due to the fact that during the Miocene the Earth experienced a major climate change event, from which Australia remained isolated. As a result, the animal species that inhabited this country followed a different development compared to other species present in other areas of the planet. However, it is also said that the high Australian endemic fauna is due to the stability of the tectonic plates of the country or the fact that there are atypical patterns of climate change in the area.<br> </p>
+        <img src="https://cdn.kastatic.org/third_party/javascript-khansrc/live-editor/build/images/avatars/primosaur-tree.png">
+        <h4 class="animals"> List of most known australian animals</h4>
+         <ol> 
+             
+             <li> Kangaroo</li>
+             <li> Koala </li>
+             <li> Tasmanian devil </li>
+             <li> Sydney spider </li>
+             <li> Death snake </li>
+             <li> Saltwater cocrodile </li>
+         </ol>
+         
+         <h2> Flora</h2> 
+             
+             There are over 22,000 species of flora in Australia. Of these, over 90% are indigenous, and a large proportion of these species are found only in these lands, i.e. they are endemic. Australia's vegetation is very diverse and includes everything from dense populations of shrubs or eucalyptus, to Mugla and Mallee. However, the predominant vegetation is perennial. There are three characteristic zones in Australia:
+             
+             <img src="https://cdn.kastatic.org/third_party/javascript-khansrc/live-editor/build/images/avatars/leaf-green.png">
+             
+             <h4 class="plants"> List of the different zones the australian flora divides in.</h4>
+             
+             <ol>
+                 
+            <li>Tropical</li>
+            <li>Template</li>
+            <li>Desertic</li>
+                 
+                 
+             </ol>
+             
+             
+             
+             
+             
+             
+         </p>
+         
+    </body>
+</html>
